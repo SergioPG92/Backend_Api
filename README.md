@@ -1,6 +1,6 @@
 ⚽ SOCCER MANAGER - Backend API
 
-Este proyecto es una API desarrollada con **Laravel**. Está diseñada para ser consumida desde un frontend (por ejemplo, una aplicación en React con Vite).
+Este proyecto es una API desarrollada con **Laravel**. Está diseñada para ser consumida desde un frontend, puedes encontrar el oficial de Soccer Manager [aquí](https://github.com/SergioPG92/FrontEnd_Soccer_Manager)
 
 ---
 
