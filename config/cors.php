@@ -20,8 +20,7 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
-        'https://proyecto-coach',
-        'http://dev.proyecto-coach',
+        'https://soccermanager.vercel.app'
     ],
 
     'allowed_origins_patterns' => [],
