@@ -8,7 +8,7 @@ Este proyecto es una API desarrollada con **Laravel**. Está diseñada para ser 
 
   Asegúrate de tener instalado en tu entorno local:
 
-- PHP >= 8.1
+- PHP 8.1 o posterior
 - Composer
 - MySQL (u otro gestor de base de datos compatible)
 
