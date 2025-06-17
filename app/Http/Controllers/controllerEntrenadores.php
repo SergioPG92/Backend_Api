@@ -76,21 +76,7 @@ class controllerEntrenadores extends Controller
         ]);
     }
 
-    /*
-        Peticion
-            Header-->  Authorization :  Bearer <Token>
-        }
-    */
-    public function logout(Request $request)
-    {
-        // Eliminar el token actual
-        $request->user()->currentAccessToken()->delete();
-
-        // Respuesta de éxito
-        return response()->json(['message' => 'Logged out successfully']);
-    }
-
-
+   
     /*
         Peticion
 
