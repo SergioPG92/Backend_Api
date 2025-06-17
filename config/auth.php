@@ -48,7 +48,6 @@ return [
             'model' => App\Models\Entrenador::class,
         ],
 
-        // Aquí puedes agregar otros proveedores si necesitas autenticar otros modelos
 
     ],
 
