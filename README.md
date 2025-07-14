@@ -35,6 +35,7 @@ composer install
 
 
     Edita el archivo .env configurando corectamente las siguientes variables:
+    
 - APP_URL:   URL BASE DEL BACKEND
 - DB_DATABASE: Nombre de la base de datos
 - DB_USERNAME: Usuario de la base de datos
